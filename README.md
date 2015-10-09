@@ -1,7 +1,7 @@
 # ABC-formula
 In this file i will be writing a program that will solve the ABC-formula
-<html></html>
-<head>ABC-FORMULA</head>
+<html></html><br>
+<head>Values</head>
 <body><script>
 var a = prompt("What is the value of variable A?")
 var b = prompt("What is the value of variable B?")
